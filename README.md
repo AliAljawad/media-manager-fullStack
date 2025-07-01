@@ -29,7 +29,7 @@ This is the backend server for the Media Manager application.
    cd Backend
    npm install
    ```
-Add your Hugging Face API key
+Add your Hugging Face API key (I had to use hugging face api because i didn't have OpenAi api key which wasted a lot of time looking for a free alternative)
 
 Create a .env file in the Backend directory and add your Hugging Face API key:   
 ```sh
